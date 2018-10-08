@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Bilet BOX</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Search</string>
+    <string name="title_notifications">Like</string>
+    <string name="drawer_open">Açık</string>
+    <string name="drawer_close">Kapalı</string>
+
+
+</resources>
